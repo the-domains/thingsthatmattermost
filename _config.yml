@@ -1,0 +1,28 @@
+name: thingsthatmattermost
+favicon: null
+layout_spectrum: 0.1766310390084982
+typography_spectrum: 0.5908991722390056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5029418361373246
+  lightness: 0.19894131505861878
+  saturation: 0.16680857236497104
+  rhythmicContrast: 0.8790075955912471
+purpose: []
